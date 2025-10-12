@@ -40,6 +40,7 @@
     "vitest": "^3.2.4"
   },
   "lint-staged": {
-    "*": "prettier --ignore-unknown --write --ignore-path .gitignore"
+    "*": "prettier --ignore-unknown --write --ignore-path .gitignore",
+    "*.{js,ts}": "eslint"
   }
 }
