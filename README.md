@@ -1,3 +1,5 @@
+Archived in favour of [april-quickstart](https://github.com/akortman/april-quickstart).
+
 # april-node-quickstart
 
 personal quickstart for node projects
